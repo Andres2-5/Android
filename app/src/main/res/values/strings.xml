@@ -1,0 +1,34 @@
+<!--
+  Copyright 2022 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
+  in compliance with the License. You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software distributed under the License
+  is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
+  or implied. See the License for the specific language governing permissions and limitations under
+  the License.
+  -->
+<resources>
+    <string name="app_name">MySoothe</string>
+    <string name="favorite_collections">Carros Alto Cilindraje</string>
+    <string name="align_your_body">Motos Alto Cilindraje</string>
+    <string name="ducati">Ducati Panigale</string>
+    <string name="bmw">BMW S1000RR</string>
+    <string name="harley">Harley Davidson</string>
+    <string name="kawasaki">Kawasaki Ninja</string>
+    <string name="suzuki">Suzuki Hayabusa</string>
+    <string name="yamaha">Yamaha YZF-R1</string>
+    <string name="camaro">Camaro</string>
+    <string name="bugatti">Bugatti Chiron</string>
+    <string name="ford">Ford Mustang GT500</string>
+    <string name="lamborghini">Lamborghini Aventador</string>
+    <string name="mclaren">McLaren 720S</string>
+    <string name="porsche">Porsche 911 Turbo S</string>
+    <string name="cd_fab_start">start</string>
+    <string name="bottom_navigation_home">Inicio</string>
+    <string name="bottom_navigation_profile">Perfil</string>
+    <string name="placeholder_search">Buscar</string>
+</resources>
